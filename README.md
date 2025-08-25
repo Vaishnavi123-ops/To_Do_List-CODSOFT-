@@ -14,14 +14,9 @@ This project includes features to **add, view, update, and delete tasks**.
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Flask / Node.js / Django *(update as per your project)*  
-- **Database:** SQLite / MySQL / MongoDB *(if used)*  
+- **Frontend:** HTML, CSS
+- **Backend:** Flask ,Python
+
 
 ---
 
-## 📌 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list.git
-   cd todo-list
